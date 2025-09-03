@@ -29,7 +29,7 @@ export default function RootLayout({
         </Suspense>
         <Analytics />
         <script 
-        src="https://cdn.jsdelivr.net/gh/xTracky/static/utm-handler.js"
+        src="https://cdn.xtracky.com/scripts/interceptor.js"
         data-token="075774c6-bd2c-45b2-9d91-11ad6faf7766"
         data-click-id-param="click_id">
 </script>
